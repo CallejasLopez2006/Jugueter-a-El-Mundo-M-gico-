@@ -4,11 +4,10 @@ using System.Text;
 
 namespace Juguetería
 {
-    public class Categoria
+    public class Edad
     {
         public int Id { get; set; }
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-
+        public string RangoEdad { get; set; }
+        public string Advertencias { get; set; }
     }
 }

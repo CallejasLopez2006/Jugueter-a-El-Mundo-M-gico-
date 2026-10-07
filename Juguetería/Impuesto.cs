@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Juguetería
 {
-    public class Categoria
+    public class Impuesto
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public string Descripcion { get; set; }
+        public decimal Porcentaje { get; set; }
 
     }
 }
