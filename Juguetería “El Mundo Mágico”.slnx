@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Jugueteria.Data/Jugueteria.Data.csproj" Id="09c8ed09-fc47-4044-90a6-d7604e6d9746" />
   <Project Path="Juguetería “El Mundo Mágico”/Juguetería “El Mundo Mágico”.csproj" />
   <Project Path="Juguetería/Juguetería.Entity.csproj" Id="120a5044-b7eb-4a07-96b5-75d184514f3d" />
 </Solution>
