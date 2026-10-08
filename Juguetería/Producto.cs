@@ -14,6 +14,6 @@ namespace Juguetería.Entity
         public int MarcaId { get; set; }
         public int EdadId { get; set; }
         public int  MaterialId { get; set; }
-        public string Etado { get; set; }
+        public string Estado { get; set; }
     }
 }
