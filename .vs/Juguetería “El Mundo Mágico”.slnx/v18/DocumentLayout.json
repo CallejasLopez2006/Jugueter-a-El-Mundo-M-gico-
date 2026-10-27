@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|solutionrelative:jugueteria.data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.Entity.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.Entity.csproj|solutionrelative:jugueter\u00EDa\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.data\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|solutionrelative:jugueteria.data\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C8ED09-FC47-4044-90A6-D7604E6D9746}|Jugueteria.Data\\Jugueteria.Data.csproj|solutionrelative:jugueteria.data\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.servicio\\jugueteria.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|solutionrelative:jugueteria.servicio\\jugueteria.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.servicio\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|solutionrelative:jugueteria.servicio\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueteria.servicio\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C9CD9-DDFF-4602-9366-233D5749F403}|Jugueteria.Servicio\\Jugueteria.Servicio.csproj|solutionrelative:jugueteria.servicio\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\impuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\impuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.Entity.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.Entity.csproj|solutionrelative:jugueter\u00EDa\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa\\edad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A5044-B7EB-4A07-96B5-75D184514F3D}|Jugueter\u00EDa\\Jugueter\u00EDa.csproj|solutionrelative:jugueter\u00EDa\\edad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD4B49-2426-770A-EF76-3F2148B2DCB4}|Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D.csproj|c:\\users\\nancy\\source\\repos\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42BD4B49-2426-770A-EF76-3F2148B2DCB4}|Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D.csproj|solutionrelative:jugueter\u00EDa \u201Cel mundo m\u00E1gico\u201D\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 373,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Jugueteria.Servicio\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\CategoriaServicio.cs",
+              "RelativeToolTip": "Jugueteria.Servicio\\CategoriaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:00:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "Jugueteria.Servicio\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\ProductoServicio.cs",
+              "RelativeToolTip": "Jugueteria.Servicio\\ProductoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:58:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jugueteria.Servicio",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\Jugueteria.Servicio.csproj",
+              "RelativeDocumentMoniker": "Jugueteria.Servicio\\Jugueteria.Servicio.csproj",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Servicio\\Jugueteria.Servicio.csproj",
+              "RelativeToolTip": "Jugueteria.Servicio\\Jugueteria.Servicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T05:47:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\ProductoData.cs",
+              "RelativeDocumentMoniker": "Jugueteria.Data\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\ProductoData.cs",
+              "RelativeToolTip": "Jugueteria.Data\\ProductoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:29:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaData.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\CategoriaData.cs",
+              "RelativeDocumentMoniker": "Jugueteria.Data\\CategoriaData.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\CategoriaData.cs",
+              "RelativeToolTip": "Jugueteria.Data\\CategoriaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:28:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "Jugueteria.Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueteria.Data\\Conexion.cs",
+              "RelativeToolTip": "Jugueteria.Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T04:25:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Producto.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Producto.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Producto.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T04:01:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Categoria.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Categoria.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Categoria.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:52:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Cliente.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Cliente.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Cliente.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:33:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\MetodoPago.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\MetodoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:26:02.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Impuesto.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Impuesto.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Impuesto.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Impuesto.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Impuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:22:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Empleado.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Empleado.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Empleado.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:47:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Proveedor.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:18:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Material.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Material.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Material.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:16:39.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edad.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Edad.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Edad.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Edad.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Edad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:12:41.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Marca.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa\\Marca.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa\\Marca.cs",
+              "RelativeToolTip": "Jugueter\u00EDa\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:10:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Form1.cs",
+              "RelativeDocumentMoniker": "Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Form1.cs",
+              "ToolTip": "C:\\Users\\nancy\\source\\repos\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Jugueter\u00EDa \u201CEl Mundo M\u00E1gico\u201D\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:35:22.904Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

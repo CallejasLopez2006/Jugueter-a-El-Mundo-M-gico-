@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Juguetería__EL_Mundo_Mágico_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jugueteria.Servicio\Jugueteria.Servicio.csproj" />
+    <ProjectReference Include="..\Juguetería\Juguetería.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
