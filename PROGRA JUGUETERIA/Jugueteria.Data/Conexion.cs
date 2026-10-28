@@ -4,8 +4,8 @@ namespace Jugueteria.Data
 {
     public class Conexion
     {
-
-        private readonly string cadenaConexion = "Server=localhost\\SQLEXPRESS;Database=JUGUETERIA;User Id=sa;Password=callejasserver2026;TrustServerCertificate=True;";
+        // Cambiamos a Autenticación de Windows integrada (Trusted_Connection)
+        private readonly string cadenaConexion = "Server=.\\SQLEXPRESS;Database=JUGUETERIA;Trusted_Connection=True;TrustServerCertificate=True;";
 
         public SqlConnection ObtenerConexion()
         {
